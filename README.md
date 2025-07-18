@@ -37,8 +37,4 @@ fruits-store/
 ├── vite.config.js
 └── README.md
 
-bash
-Copy
-Edit
-
 <pre>
