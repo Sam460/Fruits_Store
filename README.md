@@ -20,7 +20,8 @@ A modern and fast fruits store web application built with **Vite + React**. This
 
 ## 📂 Project Structure
 
-<fruits-store/
+<pre>
+fruits-store/
 ├── public/
 │ └── favicon.ico
 ├── src/
@@ -40,4 +41,4 @@ bash
 Copy
 Edit
 
->
+<pre>
